@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/biancad2/tarefas-2">
+    <img src="/frontend/src/assets/Nova.png" alt="Logo" width="130" height="130">
+  </a>
+ 
+
 Antes de iniciar a execução desses comandos, é necessário que tenha instalado anteriormente o Node.js e o Yarn no computador. 
 
 Antes de iniciar a aplicação, vá até o prompt de comando e entre na pasta frontend. Nela, digite o comando "npm install" para instalar as dependêcias.
