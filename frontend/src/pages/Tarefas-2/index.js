@@ -115,9 +115,7 @@ export default class Tarefas extends Component {
                             <strong>{tarefa.title}</strong>
                             <p className="descricao">{tarefa.description}</p>
                             <p className="hora">{tarefa.dias} dias {tarefa.horas}h {tarefa.minutos}m {tarefa.segundos}s</p>
-                            <button type="button" className="remover">
-                                <FiTrash2 size={20} color="#A8A8B3" />
-                            </button>
+                        
                             <button onClick={() => this.iniciar(tarefa.id, tarefa.minutos, tarefa.segundos)} className="button start">
                                 <FiPlay size={20} color="#FFF" />
                             </button>
