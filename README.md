@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/biancad2/tarefas-2">
-    <img src="/frontend/src/assets/Nova.png" alt="Logo" width="130" height="130">
+    <img src="/frontend/src/assets/Nova.png" alt="Logo" width="200" height="130">
   </a>
  
 
